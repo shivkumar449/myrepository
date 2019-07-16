@@ -1,3 +1,7 @@
 hi hello
 i am a devops engineer
+<<<<<<< HEAD
 scripts are changed
+=======
+adding one more
+>>>>>>> 5bf9527ff747fd56ebdbb4f87db24b2cd743d9f7
